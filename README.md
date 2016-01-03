@@ -21,10 +21,18 @@
     week Num [major Contents] : from ~ to
     
     week 1 [Foundations]: Growth of Functions(pg.43) ~  Probabilistic Analysis and Randomized Algorithms(pg.145)
+
     week 2 [Sorting and Order Statistics]: Heapsort(pg.151) ~ Medians and Order Statistics(pg.227)
+
     week 3 [Data Structures] : Elementary Data Structures(pg.232) ~ Red-Black Trees(pg.338)
+
     week 4 [Data Structures, Advanced Design and Analysis Techniques] : Augmenting Data Structures(pg.339) ~ Greedy Algorithm(pg.450)
+
     week 5 [Advanced Design and Analysis Techniques, Advanced Data Structures] : Amortic Analysis(pg.451) ~ van Emde Boas Trees(pg.560)
+
     week 6 [Advanced Data Structures] : Data Strucres for Disjoint Sets(pg.561) ~ Data Structures for Disjoint Sets(pg.585) < 설날 휴식 >
+
     week 7 [Graph Algorithms] : Elementary Graph Algorithms(pg.589) ~ Single Source Shortest Paths(pg.683)
+
     week 8 [Graph Algorithms] : All Pairs Shortest Paths(pg.684) ~ Maximum Flow(pg.767)
+
