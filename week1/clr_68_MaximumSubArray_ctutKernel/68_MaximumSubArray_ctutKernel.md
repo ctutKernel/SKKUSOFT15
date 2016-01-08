@@ -27,9 +27,7 @@ maximum-subarray 문제를 푸는 방법에는 3가지가 있다.
 >* **[Base case]** array가 start == end일 때
 >가능한 경우의 수는 1, 자기 자신을 return 하는 것
 >* **[Recursive case]** array가 start != end일 때
->가능한 경우의 수는 3, left Max, right Max, mid include Max
->
->3가지 중 가장 큰 것을 return
+>가능한 경우의 수는 3, left Max, right Max, mid include Max 3가지 중 가장 큰 것을 return
 >3. combine 
 >bottom out 되면서 문제 해결
 >
