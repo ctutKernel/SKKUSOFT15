@@ -14,11 +14,10 @@
 ###Output
  - 주식의 차익이 가장 클 수 있는 기간
 ###풀이 방법
-maximum-subarray 문제를 푸는 방법에는 3가지가 있다.
+maximum-subarray 문제를 푸는 방법에는 2가지가 있다.
 
  - A brute-force solution
  - divde & conquer
- - Strassen's algorithm 
 
 >###**brute-force solution**
 >brute-force solution은 가능한 모든 케이스들을 모두 확인해 보는 것을 뜻한다.  n개의 값에 대해 조합할 수 있는 경우의 수는 `Θ(n^2)`이고, 각각의 케이스에 대한 계산을 constant time안에 끝낸다고 가정했을 때, 이 접근법은 `Ω(n^2)` 이다.
